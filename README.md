@@ -14,12 +14,13 @@
 
 ```bibtex
 @misc{Xu2018REVEAL,
-      title={Simultaneous arteriole and venule segmentation with domain-specific loss function on a new public database}, 
       author={Xiayu Xu, Rendong Wang, Peilin Lv, Bin Gao, Chan Li, Zhiqiang Tian, Tao Tan, Feng Xu},
       journal={Biomedical Optics Express},
+      title={Simultaneous arteriole and venule segmentation with domain-specific loss function on a new public database}, 
       volunm={9},
-      issue={7},
-      pages={1--14},
+      number={7},
+      pages={1-14},
       year={2018},
+      doi={10.1364/BOE.9.003153}
 }
 ```
